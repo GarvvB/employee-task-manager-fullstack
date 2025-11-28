@@ -1,4 +1,4 @@
-# 🎯 Employee Task Manager - Full Stack Application
+<img width="1911" height="1017" alt="image" src="https://github.com/user-attachments/assets/97a2ce3d-4974-4390-a681-428e08660919" /># 🎯 Employee Task Manager - Full Stack Application
 
 A complete full-stack web application for managing employees and tasks. Built with React, Node.js, Express, and SQLite. Features a modern UI, real-time updates, and comprehensive CRUD operations.
 
@@ -31,19 +31,23 @@ A complete full-stack web application for managing employees and tasks. Built wi
 ## 🎥 Screenshots
 
 ### Dashboard
-![Dashboard](https://via.placeholder.com/800x450/4F46E5/FFFFFF?text=Dashboard+with+Statistics+%26+Quick+Actions)
+<img width="1898" height="1026" alt="image" src="https://github.com/user-attachments/assets/9a793153-690b-433c-8dc8-c03e143292d2" />
+
 *Dashboard with statistics cards, recent tasks, and quick actions*
 
 ### Employees Page
-![Employees](https://via.placeholder.com/800x450/10B981/FFFFFF?text=Employee+Cards+with+Progress+Bars)
+<img width="1911" height="1017" alt="image" src="https://github.com/user-attachments/assets/72e39fc5-a000-4ff7-a769-3654a858acc5" />
+
 *Employee cards with avatars, task statistics, and progress bars*
 
 ### Tasks Page
-![Tasks](https://via.placeholder.com/800x450/F59E0B/FFFFFF?text=Task+List+with+Filters)
+<img width="1900" height="1021" alt="image" src="https://github.com/user-attachments/assets/0b6ccafa-0b20-48c0-b4ed-487436f0dafd" />
+
 *Task list with advanced filtering and inline status updates*
 
 ### Task Form
-![Task Form](https://via.placeholder.com/800x450/8B5CF6/FFFFFF?text=Create+%2F+Edit+Task+Form)
+<img width="1916" height="1009" alt="image" src="https://github.com/user-attachments/assets/355d2fb2-603e-4588-bb11-ab84b997bf43" />
+
 *Beautiful form for creating and editing tasks*
 
 ## 🚀 Tech Stack
