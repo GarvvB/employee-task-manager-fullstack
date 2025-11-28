@@ -1,4 +1,4 @@
-<img width="1911" height="1017" alt="image" src="https://github.com/user-attachments/assets/97a2ce3d-4974-4390-a681-428e08660919" /># 🎯 Employee Task Manager - Full Stack Application
+# 🎯 Employee Task Manager - Full Stack Application
 
 A complete full-stack web application for managing employees and tasks. Built with React, Node.js, Express, and SQLite. Features a modern UI, real-time updates, and comprehensive CRUD operations.
 
